@@ -1,0 +1,28 @@
+.am-settings-table{
+
+}
+.am-settings-table th.filter-select-th{
+	width:50px;	
+	text-align: center;
+}
+.am-settings-table th{
+	text-align: left;
+	width:70px;
+}
+.am-search{
+	float:right;
+}
+.am-settings-table input[type='text']{
+	width:100px;
+}
+.am-results{
+
+}
+ul.author-posts{
+	display: none;
+	list-style-type: disc;
+	margin-left:25px;
+}
+input[type="text"].am-bad-field{
+	border:1px solid red;
+}
